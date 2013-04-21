@@ -33,3 +33,13 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# compressed files
+*.bz2
+
+# sqls
+*.sql
+
+# wiki directory under gensim
+wiki/
+tmp/
